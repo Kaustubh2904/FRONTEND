@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url('https://imgs.search.brave.com/i-b9putMIms5BGSYPaonmw8We9gXeAP2gyYlG9_M5Gk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA3LzI2LzMxLzc3/LzM2MF9GXzcyNjMx/NzcyNF9VbTkzR1k0/NzNsUmVVdnZrUjRm/bWxXVzA2N3lqSkk3/SC5qcGc');
+    /* background-image: url('https://imgs.search.brave.com/i-b9putMIms5BGSYPaonmw8We9gXeAP2gyYlG9_M5Gk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA3LzI2LzMxLzc3/LzM2MF9GXzcyNjMx/NzcyNF9VbTkzR1k0/NzNsUmVVdnZrUjRm/bWxXVzA2N3lqSkk3/SC5qcGc'); */
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -36,7 +36,7 @@ h2 {
     color: white;
 }
 a {
-    color: pink;
+    color: goldenrod;
 }
 label {
     color: rgb(255, 255, 255);
